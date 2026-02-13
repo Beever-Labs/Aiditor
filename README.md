@@ -42,29 +42,3 @@ MIT (planned)
 
 ---
 
-Now, Bhanu — here’s what I recommend for your **first commit**:
-
-1. `README.md`
-2. `LICENSE` (MIT)
-3. `.gitignore`
-4. Empty folder structure like:
-
-```
-/core
-/editor
-/context
-/patch
-/docs
-```
-
-Even if empty — it signals direction.
-
----
-
-If you want, next we design:
-
-* The Block schema (actual TypeScript interface)
-* The Patch protocol spec (v0.1)
-* Or the GitHub repo description + tagline
-
-Let’s build AIditor properly from day one.
